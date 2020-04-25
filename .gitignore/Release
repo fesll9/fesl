@@ -1,0 +1,8 @@
+
+Origin:fesl
+Label:fesl
+Suite:stable
+version:1.0
+Architectures:iphoneos-arm
+Components:main
+Description:سورس مختص ببجي وادوات البلس
